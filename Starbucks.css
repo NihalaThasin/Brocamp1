@@ -260,7 +260,7 @@ body{
     cursor: pointer;
 }
 .learnpic{
-    background-image: url("learn.jpg");
+    background-image: url("coffee.jpg");
     height:300px;
     width:98%;
     background-size: cover;
